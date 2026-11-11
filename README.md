@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:764BA2,100:00D9FF&height=220&section=header&text=Cau%C3%A3%20Gomes&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Java%20%26%20TypeScript&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:764BA2,100:00D9FF&height=220&section=header&text=Cau%C3%A3%20Gomes&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=20" width="100%" />
 
 &nbsp;
 
@@ -35,13 +35,9 @@
 
 <img height="180em" width="470em" src="https://streak-stats.demolab.com/?user=cauagomes06&theme=tokyonight" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagomes06&hide=html&layout=compact&langs_count=6&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cauagomes06&theme=tokyonight" />
 
   <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauagomes06&theme=tokyonight" />
-
-  <div align="center">
-    <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=cauagomes06&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" alt="Contribution Graph" />
-  </div>
 
 </div>
 
@@ -88,6 +84,8 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=cauagomes06&icon=0&color=10)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cauagomes06&color=00d9ff&style=for-the-badge&label=VISITAS" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:764BA2,100:0d1117&height=120&section=footer" width="100%" />
