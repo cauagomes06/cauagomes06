@@ -58,7 +58,7 @@
 </div>
 
 <p align="center">
-  <img alt="Skills" src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,html,css,postgresql,mysql,docker,git,github,vscode,idea,postman,linux&perline=17" />
+  <img alt="Skills" src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,html,css,postgresql,mysql,docker,git,github,vscode,idea,postman&perline=16" />
 </p>
 
 ##
