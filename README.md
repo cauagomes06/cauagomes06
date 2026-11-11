@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:3FB950,100:79C0FF&height=220&section=header&text=Cau%C3%A3%20Gomes&fontSize=60&fontColor=0d1117&animation=fadeIn&fontAlignY=30&rotate=-3&desc=Fullstack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20TypeScript&descAlignY=50&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FB950,100:79C0FF&height=180&section=header&text=Cau%C3%A3%20Gomes&fontSize=60&fontColor=0d1117&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20TypeScript&descAlignY=65&descSize=20" width="100%" />
 
 &nbsp;
 
@@ -88,4 +88,4 @@
   <img src="https://komarev.com/ghpvc/?username=cauagomes06&color=3FB950&style=for-the-badge&label=VISITAS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:79C0FF,100:3FB950&height=110&section=footer&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FB950,100:79C0FF&height=6&section=footer" width="100%" />
