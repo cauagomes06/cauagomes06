@@ -1,16 +1,93 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:764BA2,100:00D9FF&height=220&section=header&text=Cau%C3%A3%20Gomes&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Java%20%26%20TypeScript&descAlignY=58&descSize=20" width="100%" />
 
-<!--
-**cauagomes06/cauagomes06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=00D9FF&size=42&center=true&vCenter=true&width=600&height=100&lines=Bem-vindo+ao+meu+perfil;Fullstack+Developer;Java+%2B+Spring+Boot;React+%2B+TypeScript" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 👨‍💻 Desenvolvedor fullstack apaixonado por construir sistemas úteis e bem estruturados.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFBA — Campus Irecê.
+- 🏙️ Atuo no projeto **Cidades Inteligentes**, desenvolvendo soluções para a gestão pública.
+- 🌱 Sempre estudando arquitetura de software, boas práticas e novas tecnologias.
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /><b> Skills</b>
+
+<br />
+
+- 💻 **Backend**: Java, Spring Boot, APIs RESTful, arquitetura em camadas.
+- 💻 **Frontend**: React, Next.js, TypeScript, JavaScript.
+- 💻 **Banco de Dados**: PostgreSQL, MySQL, modelagem de dados.
+- 💻 **Ferramentas**: Git, GitHub, Docker, Postman, Linux.
+- 💻 **Em estudo**: IA aplicada, sistemas offline-first e sincronização de dados.
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /><b> Colaboração</b>
+
+<br />
+
+- ✨ Aberto a projetos e colaborações. Bora construir algo incrível juntos!
+
+<div align="center">
+
+<img height="180em" width="470em" src="https://streak-stats.demolab.com/?user=cauagomes06&theme=tokyonight" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagomes06&hide=html&layout=compact&langs_count=6&theme=tokyonight" />
+
+  <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauagomes06&theme=tokyonight" />
+
+  <div align="center">
+    <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=cauagomes06&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" alt="Contribution Graph" />
+  </div>
+
+</div>
+
+&nbsp;
+
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-FF6600?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-764BA2?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-00D9FF?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-764BA2?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-00599C?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-00D9FF?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-3178C6?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-FF6600?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+</div>
+
+<p align="center">
+  <img alt="Skills" src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,html,css,postgresql,mysql,docker,git,github,vscode,idea,postman,linux&perline=17" />
+</p>
+
+##
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=cauagomes06&theme=tokyonight&column=6&margin-w=15" />
+</p>
+
+<!-- ==================== CONTATO ==================== -->
+
+<div align="center">
+
+## 🌐 **CONECTE-SE COMIGO** 🌐
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=667EEA)](mailto:cau201812@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-cauagomes06-181717?style=for-the-badge&logo=github&logoColor=white&color=bb00ff)](https://github.com/cauagomes06)
+
+</div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=cauagomes06&icon=0&color=10)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:764BA2,100:0d1117&height=120&section=footer" width="100%" />
